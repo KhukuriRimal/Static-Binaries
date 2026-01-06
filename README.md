@@ -1,0 +1,1 @@
+A curated collection of portable static binaries for security testing, red teaming, and assessments. Includes statically compiled tools like Nmap, FFUF, Nuclei, Katana, Ligolo-NG, and more—designed to run on hardened or restricted systems without dependencies.
